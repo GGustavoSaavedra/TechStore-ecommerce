@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🛍️ TechStore – Simulación de e-commerce
 
-## Getting Started
+TechStore es una tienda virtual simulada inspirada en marcas tecnológicas modernas. Fue desarrollada como parte del Módulo 4 en el bootcamp de Soy Henry, con el objetivo de practicar la construcción de interfaces funcionales y responsivas usando tecnologías frontend actuales.
 
-First, run the development server:
+## 🚀 Funcionalidades
+- Navegación por categorías de productos
+- Página de inicio con banners dinámicos
+- Vista de detalle de producto
+- Agregado y eliminación de productos del carrito
+- Estilos modernos y responsive
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+⚠️ Este proyecto es únicamente frontend. Las funcionalidades de autenticación (login/register) no están activas en el deploy.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Tecnologías utilizadas
+- React
+- Vite
+- Tailwind CSS
+- Zustand (para manejar el estado del carrito)
+- React Router DOM
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🔗 Demo
+[Ver proyecto online](https://front-ecommerceft59-delta.vercel.app/)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+¡Gracias por visitar el repo! Si te interesa mi trabajo, podés ver más en mi [GitHub](https://github.com/GGustavoSaavedra) o [LinkedIn](https://www.linkedin.com/in/gustavo-gabriel-saavedra/).
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
